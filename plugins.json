@@ -1144,10 +1144,10 @@
     },
     {
         "iconUrl": "https://trakt.tv/apple-touch-icon.png",
-        "fileHash": "sha256-0bf88f785a748278304c9d7fd6bfcd0d7dca2046e875f5715b54df4ab1d7950c",
+        "fileHash": "sha256-89e5e05505e43de0ceca928424e9d33236e798c4262606a33c61648c92fa5c97",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 32168,
+        "fileSize": 41100,
         "status": 1,
         "language": "tr",
         "authors": [
