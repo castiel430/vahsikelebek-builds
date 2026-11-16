@@ -260,10 +260,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=%size%",
-        "fileHash": "sha256-6143e5e2e127536ad08cce7a48015c826c7e889cb80b386a4b205262120776f6",
+        "fileHash": "sha256-042aba02e19481ac13834f95bb52b6a63c45ece803c9e54762f2b077a079c962",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 43746,
+        "fileSize": 43757,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -342,27 +342,6 @@
         "name": "DiziKorea"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizi85.life&sz=%size%",
-        "fileHash": "sha256-2336fe8a317d0f4844ec26e203ce07ca178e0964ca4e5c631c8b63f8b78be092",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 50018,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "F0Rextasy"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "DiziLife",
-        "description": "DiziLife \u00e2\u20ac\u201d dizi85.life dizi ve film ar\u00c5\u0178ivi",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziLife.cs3",
-        "name": "DiziLife"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.nl&sz=%size%",
         "fileHash": "sha256-724ab2aacecd393880ffb3e1f65f6f8f8b63d1f4d8ff910ceca5a5c5605cc17e",
         "apiVersion": 1,
@@ -403,71 +382,6 @@
         "description": "Binlerce yerli yabanc\u0131 dizi, film ve anime ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. DiziMom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziMom.cs3",
         "name": "DiziMom"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2145.com&sz=%size%",
-        "fileHash": "sha256-c0640747a32d619b29c5194ba17e51c1af069a49202146ff99fc819660c70cb7",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 35292,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NeO",
-            "muratcesmecioglu"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 36,
-        "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziPal.cs3",
-        "name": "DiziPal"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1593.com&sz=%size%",
-        "fileHash": "sha256-d02eb875176c4e81f948e21af57089881267bdac1d68c13caac9a445fe58790c",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 45039,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NeO"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "DiziPalGuncel",
-        "description": "Dizipal Orijinal / G\u00fcncel \u2014 yabanc\u0131 dizi ve film izle",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziPalGuncel.cs3",
-        "name": "DiziPalGuncel"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipalorjinal18.com&sz=%size%",
-        "fileHash": "sha256-f9e385a1e2b8b151cede6782d0b686e374bccdfed485608d46d1c61d97c41a41",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 31923,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NeO"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "DiziPalOrjinal",
-        "description": "Dizipal Orijinal \u2014 T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 dizi, film izle",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziPalOrjinal.cs3",
-        "name": "DiziPalOrjinal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
@@ -865,28 +779,6 @@
         "description": "MinikaGO - cocuk dizileri ve bolumleri (MP4)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/MinikaGO.cs3",
         "name": "MinikaGO"
-    },
-    {
-        "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
-        "fileHash": "sha256-8eab3834372d62c439bf74292b8f146de2fd1eb32ae6b85aa747b84723204611",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 42026,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Horis, megix",
-            "NeO"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "NetflixMirror",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/NetflixMirror.cs3",
-        "name": "NetflixMirror"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=puhutv.com&sz=%size%",
