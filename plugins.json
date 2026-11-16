@@ -1246,26 +1246,6 @@
         "name": "UltraFilmizle"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
-        "fileHash": "sha256-1fd910ed0f63f0794ac4fd229e6490705e201a26d62216f546136b062fc48ff4",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 20462,
-        "status": 3,
-        "language": "en",
-        "authors": [
-            "NeO"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Watch2Movies",
-        "description": "!!! YAPIM A\u015eAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Watch2Movies.cs3",
-        "name": "Watch2Movies"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey2.com&sz=%size%",
         "fileHash": "sha256-483492d2b1cd814b60f086460be951e214b26569bcf80e373723f90432cb77ba",
         "apiVersion": 1,
