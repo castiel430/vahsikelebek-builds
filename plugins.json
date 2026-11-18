@@ -1057,10 +1057,10 @@
     },
     {
         "iconUrl": "https://trakt.tv/apple-touch-icon.png",
-        "fileHash": "sha256-3d7e4ae16b57fab7c507833da4af8352f7021fcb4edf128d4ef061a90eb49486",
+        "fileHash": "sha256-7532db447e46f9b6e9dd8c87035557935dc32247a377ec8e936ad8738f32779c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 49955,
+        "fileSize": 54936,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1070,7 +1070,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "TraktSync",
         "description": "Trakt Senkron - CloudStream k\u00fct\u00fcphanenizi Trakt.tv ile \u00e7ift y\u00f6nl\u00fc e\u015fitler (izlenenler ve izleme listesi iki tarafta da g\u00f6r\u00fcn\u00fcr)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TraktSync.cs3",
