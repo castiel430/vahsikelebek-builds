@@ -260,7 +260,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=%size%",
-        "fileHash": "sha256-042aba02e19481ac13834f95bb52b6a63c45ece803c9e54762f2b077a079c962",
+        "fileHash": "sha256-c8a98ebebc17be71f721eeff72e38ec5f2b62b8b99ac068316a0050535a72cd1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
         "fileSize": 43757,
@@ -273,7 +273,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "DiziBol",
         "description": "DiziBol \u00e2\u20ac\u201d altyaz\u00c4\u00b1l\u00c4\u00b1 yabanc\u00c4\u00b1 dizi ve film ar\u00c5\u0178ivi (dizibol.org)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziBol.cs3",
@@ -447,10 +447,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-6c02e7f4e6a5ca8d911ccc53334a32392ee95af073109799f96c7b97995e929a",
+        "fileHash": "sha256-75452a0ea7a91c974f8ef57130b69accc8d1494c6df1cdb74f94938b93de936b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 27778,
+        "fileSize": 27777,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -461,7 +461,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FilmMakinesi.cs3",
@@ -529,7 +529,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-a37faad0fd74ba953b5532d8f5f901125e2a995781e9d36cd2d27af5a23db47e",
+        "fileHash": "sha256-3ed43d3b56d08dba53f8f388781c5c554b4415b21ef2ebd6e24b3e342956ed3e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
         "fileSize": 29717,
@@ -543,7 +543,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmCehennemi.cs3",
@@ -1036,7 +1036,7 @@
     },
     {
         "iconUrl": "https://trakt.tv/apple-touch-icon.png",
-        "fileHash": "sha256-05758c213e590ba221b84895e9936eff401279b84303d64e095d7bb0718ec7b1",
+        "fileHash": "sha256-f13fa5c76fa0d04654febcbcd5f7c25d78c7e67654c70e0c9fca5012af540727",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
         "fileSize": 40263,
@@ -1049,7 +1049,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "TraktSync",
         "description": "Trakt Senkron - CloudStream k\u00fct\u00fcphenizi Trakt.tv ile e\u015fitler (izleme listesi ve izlenenler)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TraktSync.cs3",
