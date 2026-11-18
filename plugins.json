@@ -151,10 +151,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-        "fileHash": "sha256-e21dafcd03277830034188b94824a758d77599494dab5bec91af357c8391d5e4",
+        "fileHash": "sha256-514362b6519e0c8c16478fb7d78902fb39ad59745f455f3f038318907f68cd06",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 49534,
+        "fileSize": 51198,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -167,7 +167,7 @@
             "Anime",
             "Documentary"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "CizgiMax",
         "description": "CizgiMax - cizgi film, anime ve dizi izle (cizgimax.online)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/CizgiMax.cs3",
@@ -362,11 +362,11 @@
         "name": "Dizilla"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimom.net&sz=%size%",
-        "fileHash": "sha256-bade1afb9d6d7bf3fb781b0ead5852a02be528784f0f0341cc6aa4294d065639",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimom.com&sz=%size%",
+        "fileHash": "sha256-45b1be0f361fdf0f686e94772df18f6b5308eae6395f73ee401ac9c237aed566",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 40903,
+        "fileSize": 40905,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -377,7 +377,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabanc\u0131 dizi, film ve anime ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. DiziMom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziMom.cs3",
@@ -426,11 +426,11 @@
         "name": "DiziPod"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=%size%",
-        "fileHash": "sha256-4d7374a3ef246fbb63f2f3900e8bd36fef927d765d6355d49f054f0cb54aae0d",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=diziyou.to&sz=%size%",
+        "fileHash": "sha256-7fb4e0171afc087b4c61ab8a48bc383941a553a60b9e74eefa5fe86e99f82e33",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 15143,
+        "fileSize": 15138,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -439,7 +439,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziYou.cs3",
@@ -468,10 +468,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-75452a0ea7a91c974f8ef57130b69accc8d1494c6df1cdb74f94938b93de936b",
+        "fileHash": "sha256-fd1829486fb329a1ee508e21886c6528237a666fbc73a0bebfd047d0a17353ff",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 27777,
+        "fileSize": 29201,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -482,7 +482,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FilmMakinesi.cs3",
@@ -530,10 +530,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.fullhdfilmizlesene.now&sz=%size%",
-        "fileHash": "sha256-e3a0b4db627c2fd43fe495002670eced0591af37bb21f21673330a6b7fd0ad67",
+        "fileHash": "sha256-b6d4d9681a3ed53b784cb75b432ed8f1f2c169545123d5e390977a85996db2f0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 23065,
+        "fileSize": 24623,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -542,7 +542,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FullHDFilmizlesene.cs3",
@@ -550,10 +550,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-3ed43d3b56d08dba53f8f388781c5c554b4415b21ef2ebd6e24b3e342956ed3e",
+        "fileHash": "sha256-04149693deb22c1b56dc12d5634bd28dccc1f2faa901c544e67bf7999a397ba5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 29717,
+        "fileSize": 31007,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -564,7 +564,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmCehennemi.cs3",
@@ -614,10 +614,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdiziizle.com&sz=%size%",
-        "fileHash": "sha256-76b023ba0e20045d8e6fc7bd763c268df7ede8c12d2dd4531d1b71df2c557611",
+        "fileHash": "sha256-9f0f7e76d42f5e646a1f30e8bd0ec57147c8aef61fd2101424d7a18d82d3e2d1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 54485,
+        "fileSize": 55873,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -627,9 +627,9 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "HDFilmDiziIzle",
-        "description": "HDFilmDiziIzle \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "HDFilmDiziIzle \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmDiziIzle.cs3",
         "name": "HDFilmDiziIzle"
     },
@@ -699,10 +699,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.tv&sz=%size%",
-        "fileHash": "sha256-6123c0e6b9cb700ac41cb9ff6b261291458752527c435bca2636a9ed93a96796",
+        "fileHash": "sha256-97bf3660797076f68e29e20168e8c66e8c7acfdf7d2fb259476cf9f37ef6f4e0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 24615,
+        "fileSize": 26178,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -712,7 +712,7 @@
             "AsianDrama",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "KoreanTurk",
         "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/KoreanTurk.cs3",
@@ -720,10 +720,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
-        "fileHash": "sha256-3505a7253211d4b56ef0bff28552f424106234bb36f0809168a4d039d2653dcc",
+        "fileHash": "sha256-dd64bc54771cf7915f3f676748cc686edec344059a255f1412e215142b2413e6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 35636,
+        "fileSize": 37097,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -732,9 +732,9 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Kultfilmler",
-        "description": "K\u00c3\u00bclt Filmler \u00e2\u20ac\u201d kultfilmler.net",
+        "description": "K\u00fclt Filmler \u2014 kultfilmler.net",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Kultfilmler.cs3",
         "name": "Kultfilmler"
     },
@@ -841,31 +841,6 @@
         "description": "The Cave of Forgotten Films",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/RareFilmm.cs3",
         "name": "RareFilmm"
-    },
-    {
-        "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
-        "fileHash": "sha256-6f844184dd274c8ed7c3a1fb05fc9f29b283e7f36a8c49c2372b27ee9c71b936",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 29410,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NeO",
-            "yusiqo",
-            "inatchii",
-            "JustRelaxable"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Live",
-            "TvSeries"
-        ],
-        "version": 67,
-        "internalName": "RecTV",
-        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/RecTV.cs3",
-        "name": "RecTV"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=%size%",
@@ -1036,10 +1011,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tlctv.com.tr&sz=%size%",
-        "fileHash": "sha256-11f17b16fd333a33701d0564811713b5be0155660ac220072537d2cfe29600ce",
+        "fileHash": "sha256-252744cbda35881e8daa37dafd8a8ace7fa75bf6d31e79932695fab113cb0924",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 39573,
+        "fileSize": 40970,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1049,9 +1024,9 @@
             "TvSeries",
             "Live"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "TLCtr",
-        "description": "TLCtr \u00e2\u20ac\u201d TLC T\u00c3\u00bcrkiye: ger\u00c3\u00a7ek hikayeler, belgesel ve dizi b\u00c3\u00b6l\u00c3\u00bcmleri + canl\u00c4\u00b1 yay\u00c4\u00b1n (tlctv.com.tr)",
+        "description": "TLCtr \u2014 TLC T\u00fcrkiye: ger\u00e7ek hikayeler, belgesel ve dizi b\u00f6l\u00fcmleri + canl\u0131 yay\u0131n (tlctv.com.tr)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TLCtr.cs3",
         "name": "TLCtr"
     },
@@ -1119,31 +1094,11 @@
         "name": "TV8"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
-        "fileHash": "sha256-1858dc777046bdde66d5bc6c29398208602cd8895ffab5960b382ce8c180e694",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ultraiz.net&sz=%size%",
+        "fileHash": "sha256-cdcd515e3dd5cab97d3b3a08434dc3fd62fdaa54f8da9a53fb11c8b7a611268e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 23979,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "NeO"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "UgurFilm",
-        "description": "Yabanc\u0131 film izle, T\u00fcrk\u00e7e dublaj ve T\u00fcrk\u00e7e altyaz\u0131l\u0131 film se\u00e7enekleriyle 720p ve 1080p HD kalitesinde film izle - U\u011fur Film full hd film izle.",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/UgurFilm.cs3",
-        "name": "UgurFilm"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ufilmizle.com&sz=%size%",
-        "fileHash": "sha256-07b931613011522f25312464e489d71cc0ecb96034f0c8f341d5b28c4f18511b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 35586,
+        "fileSize": 35590,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1152,18 +1107,18 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "UltraFilmizle",
-        "description": "UltraFilmizle \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj/altyaz\u00c4\u00b1l\u00c4\u00b1 film ar\u00c5\u0178ivi",
+        "description": "UltraFilmizle \u2014 T\u00fcrk\u00e7e dublaj/altyaz\u0131l\u0131 film ar\u015fivi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/UltraFilmizle.cs3",
         "name": "UltraFilmizle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey2.com&sz=%size%",
-        "fileHash": "sha256-483492d2b1cd814b60f086460be951e214b26569bcf80e373723f90432cb77ba",
+        "fileHash": "sha256-8959030f957af09ef31c673f727a5ecebdf9198866e0208f37c231a2140dea5b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 44844,
+        "fileSize": 46180,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1174,9 +1129,9 @@
             "Movie",
             "Anime"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "WebdramaTurkey2",
-        "description": "WebdramaTurkey2 \u00e2\u20ac\u201d Kore, \u00c3\u2021in ve Japon dizileri, TR altyaz\u00c4\u00b1l\u00c4\u00b1 (webdramaturkey2.com)",
+        "description": "WebdramaTurkey2 \u2014 Kore, \u00c7in ve Japon dizileri, TR altyaz\u0131l\u0131 (webdramaturkey2.com)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/WebdramaTurkey2.cs3",
         "name": "WebdramaTurkey2"
     },
