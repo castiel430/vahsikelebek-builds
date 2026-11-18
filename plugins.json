@@ -384,6 +384,27 @@
         "name": "DiziMom"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1596.com&sz=%size%",
+        "fileHash": "sha256-def1544cf44834aa9655543febb73029577a3ee02b3409628c72e03243716358",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
+        "fileSize": 27273,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "vahsikelebek"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziPal",
+        "description": "DiziPal (dizipal1596.com) - Yabanc\u0131 dizi ve filmler, T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131",
+        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziPal.cs3",
+        "name": "DiziPal"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
         "fileHash": "sha256-14cbca96d1236b2509ab1ed03b98b81ee108ae396f0fe553f8feceb9fa24bdd9",
         "apiVersion": 1,
