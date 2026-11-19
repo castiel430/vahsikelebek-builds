@@ -427,10 +427,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=diziyou.to&sz=%size%",
-        "fileHash": "sha256-7fb4e0171afc087b4c61ab8a48bc383941a553a60b9e74eefa5fe86e99f82e33",
+        "fileHash": "sha256-8423c2f60bfae39c76d5c896f21c518db7fe6dede2e94e736a36536a034ddac6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 15138,
+        "fileSize": 15144,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -439,7 +439,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziYou.cs3",
@@ -1032,10 +1032,10 @@
     },
     {
         "iconUrl": "https://trakt.tv/apple-touch-icon.png",
-        "fileHash": "sha256-44ccc616e7c4a382915035215d10ddf606a9defd8e61d0a7f7f78345527afc0c",
+        "fileHash": "sha256-5a56377e2a6dd37f13f1208bb2fab123dccf27cbadae5f27e3ae2eaf870fe38d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 56050,
+        "fileSize": 59272,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1045,7 +1045,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "TraktSync",
         "description": "Trakt Senkron - CloudStream k\u00fct\u00fcphanenizi Trakt.tv ile \u00e7ift y\u00f6nl\u00fc e\u015fitler (izlenenler ve izleme listesi iki tarafta da g\u00f6r\u00fcn\u00fcr)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TraktSync.cs3",
