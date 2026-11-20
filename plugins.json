@@ -802,27 +802,6 @@
         "name": "MinikaGO"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=puhutv.com&sz=%size%",
-        "fileHash": "sha256-640a2c7de8be1a799ca2fdf41af542002c13b5edee2a020df83ba909153deec6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 42843,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "F0Rextasy"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "PuhuTV",
-        "description": "PuhuTV \u2014 Yerli diziler, puhutv Orijinal yap\u0131mlar, filmler ve belgeseller",
-        "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/PuhuTV.cs3",
-        "name": "PuhuTV"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "fileHash": "sha256-8e7966e20d78b66e75af7b0f91cb70b146c07d02f21bdecc79403826808f1c94",
         "apiVersion": 1,
