@@ -37,7 +37,7 @@
         ],
         "version": 4,
         "internalName": "ATV",
-        "description": "ATV \u00e2\u20ac\u201d G\u00c3\u00bcncel ve klasik ATV dizileri (do\u00c4\u0178rudan MP4/HLS)",
+        "description": "ATV \u2014 G\u00fcncel ve klasik ATV dizileri (do\u011frudan MP4/HLS)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/ATV.cs3",
         "name": "ATV"
     },
@@ -79,7 +79,7 @@
         ],
         "version": 7,
         "internalName": "CanliDizi",
-        "description": "CanliDizi \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "CanliDizi \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/CanliDizi.cs3",
         "name": "CanliDizi"
     },
@@ -99,7 +99,7 @@
         ],
         "version": 6,
         "internalName": "CanliTV",
-        "description": "CanliTV \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e canl\u00c4\u00b1 TV: se\u00c3\u00a7ilmi\u00c5\u0178 HLS kanallar\u00c4\u00b1 + iptv-org T\u00c3\u00bcrkiye listesi",
+        "description": "CanliTV \u2014 T\u00fcrk\u00e7e canl\u0131 TV: se\u00e7ilmi\u015f HLS kanallar\u0131 + iptv-org T\u00fcrkiye listesi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/CanliTV.cs3",
         "name": "CanliTV"
     },
@@ -233,7 +233,7 @@
         ],
         "version": 7,
         "internalName": "Ddizi",
-        "description": "DDizi \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dizi izle (ddizi.im \u00e2\u2020\u2019 ddizi.tel)",
+        "description": "DDizi \u2014 T\u00fcrk\u00e7e dizi izle (ddizi.im \u2192 ddizi.tel)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Ddizi.cs3",
         "name": "Ddizi"
     },
@@ -254,7 +254,7 @@
         ],
         "version": 7,
         "internalName": "DiziBal",
-        "description": "DiziBal \u00e2\u20ac\u201d altyaz\u00c4\u00b1l\u00c4\u00b1 yabanc\u00c4\u00b1 dizi ve film ar\u00c5\u0178ivi (dizibal.org)",
+        "description": "DiziBal \u2014 altyaz\u0131l\u0131 yabanc\u0131 dizi ve film ar\u015fivi (dizibal.org)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziBal.cs3",
         "name": "DiziBal"
     },
@@ -275,7 +275,7 @@
         ],
         "version": 4,
         "internalName": "DiziBol",
-        "description": "DiziBol \u00e2\u20ac\u201d altyaz\u00c4\u00b1l\u00c4\u00b1 yabanc\u00c4\u00b1 dizi ve film ar\u00c5\u0178ivi (dizibol.org)",
+        "description": "DiziBol \u2014 altyaz\u0131l\u0131 yabanc\u0131 dizi ve film ar\u015fivi (dizibol.org)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziBol.cs3",
         "name": "DiziBol"
     },
@@ -316,7 +316,7 @@
         ],
         "version": 7,
         "internalName": "Dizigom",
-        "description": "Dizigom \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "Dizigom \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Dizigom.cs3",
         "name": "Dizigom"
     },
@@ -357,7 +357,7 @@
         ],
         "version": 14,
         "internalName": "Dizilla",
-        "description": "Dizilla \u00e2\u20ac\u201d yabanc\u00c4\u00b1 dizi izle (dizilla.nl mirror'\u00c4\u00b1)",
+        "description": "Dizilla \u2014 yabanc\u0131 dizi izle (dizilla.nl mirror'\u0131)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Dizilla.cs3",
         "name": "Dizilla"
     },
@@ -421,7 +421,7 @@
         ],
         "version": 8,
         "internalName": "DiziPod",
-        "description": "DiziPod \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e altyaz\u00c4\u00b1l\u00c4\u00b1 yabanc\u00c4\u00b1 dizi & film ar\u00c5\u0178ivi (dizipod.com)",
+        "description": "DiziPod \u2014 T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi & film ar\u015fivi (dizipod.com)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DiziPod.cs3",
         "name": "DiziPod"
     },
@@ -462,13 +462,13 @@
         ],
         "version": 5,
         "internalName": "DMAX",
-        "description": "DMAX \u00e2\u20ac\u201d belgesel ve program b\u00c3\u00b6l\u00c3\u00bcmleri",
+        "description": "DMAX \u2014 belgesel ve program b\u00f6l\u00fcmleri",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/DMAX.cs3",
         "name": "DMAX"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-9277773e551d2c5d656071de01a9786288ea1ae9c3df19cf6b442e0573663bd4",
+        "fileHash": "sha256-402e4c1130fd8cea453ab6632415adf4e7baded95c35cc69f03dd94d704792b6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
         "fileSize": 30507,
@@ -482,7 +482,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FilmMakinesi.cs3",
@@ -504,7 +504,7 @@
         ],
         "version": 6,
         "internalName": "FilmModu",
-        "description": "Filmmodu \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj & altyaz\u00c4\u00b1l\u00c4\u00b1 film ar\u00c5\u0178ivi (filmmodu.news)",
+        "description": "Filmmodu \u2014 T\u00fcrk\u00e7e dublaj & altyaz\u0131l\u0131 film ar\u015fivi (filmmodu.news)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FilmModu.cs3",
         "name": "FilmModu"
     },
@@ -524,16 +524,16 @@
         ],
         "version": 5,
         "internalName": "FullHDFilm",
-        "description": "FullHDFilm \u00e2\u20ac\u201d fullhdfilmizlebox.vip (T\u00c3\u00bcrk\u00c3\u00a7e dublaj & altyaz\u00c4\u00b1)",
+        "description": "FullHDFilm \u2014 fullhdfilmizlebox.vip (T\u00fcrk\u00e7e dublaj & altyaz\u0131)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FullHDFilm.cs3",
         "name": "FullHDFilm"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.fullhdfilmizlesene.now&sz=%size%",
-        "fileHash": "sha256-2868e8ec9b12bf6b02b60f58da13ee27fb33547ff9a011ff244f039c3c1f47cb",
+        "fileHash": "sha256-44f3d3320737772891bf40552a5a8ac6eb536999e4505455fb82acda6b7e7313",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 25879,
+        "fileSize": 25868,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -542,7 +542,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/FullHDFilmizlesene.cs3",
@@ -550,10 +550,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-8880e417dbdf3d434026039847322a4b0d30c504b3749384e057bb6ec224c738",
+        "fileHash": "sha256-94f83a407566df6a6fa79b4edffdb37e2df73ca8b3ac9f17ba71ca448ca76f12",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 32519,
+        "fileSize": 32517,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -564,7 +564,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmCehennemi.cs3",
@@ -587,7 +587,7 @@
         ],
         "version": 4,
         "internalName": "HDFilmCehennemi2",
-        "description": "HDFilmCehennemi2 \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "HDFilmCehennemi2 \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmCehennemi2.cs3",
         "name": "HDFilmCehennemi2"
     },
@@ -608,7 +608,7 @@
         ],
         "version": 9,
         "internalName": "HDFilmDelisi",
-        "description": "HDFilmDelisi \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "HDFilmDelisi \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/HDFilmDelisi.cs3",
         "name": "HDFilmDelisi"
     },
@@ -672,7 +672,7 @@
         ],
         "version": 9,
         "internalName": "JetFilmizle",
-        "description": "JetFilmizle \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj/altyaz\u00c4\u00b1l\u00c4\u00b1 film izle (jetfilmizle.app)",
+        "description": "JetFilmizle \u2014 T\u00fcrk\u00e7e dublaj/altyaz\u0131l\u0131 film izle (jetfilmizle.app)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/JetFilmizle.cs3",
         "name": "JetFilmizle"
     },
@@ -693,16 +693,16 @@
         ],
         "version": 4,
         "internalName": "KanalD",
-        "description": "Kanal D \u00e2\u20ac\u201d dizi ve program b\u00c3\u00b6l\u00c3\u00bcmleri",
+        "description": "Kanal D \u2014 dizi ve program b\u00f6l\u00fcmleri",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/KanalD.cs3",
         "name": "KanalD"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.tv&sz=%size%",
-        "fileHash": "sha256-c5ebbcaf2784553bcbdcf84c7c219ebce14f4f8d733e5b99fceb061240a5bc71",
+        "fileHash": "sha256-7aca9899267a96a2be9b950e903ec7f1904433c1a4e53f161fe56541540f4929",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 27296,
+        "fileSize": 27301,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -712,7 +712,7 @@
             "AsianDrama",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "KoreanTurk",
         "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/KoreanTurk.cs3",
@@ -754,7 +754,7 @@
         ],
         "version": 6,
         "internalName": "LoveFilm",
-        "description": "LoveFilm \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj & altyaz\u00c4\u00b1l\u00c4\u00b1 film ar\u00c5\u0178ivi (lovefilmizle.net)",
+        "description": "LoveFilm \u2014 T\u00fcrk\u00e7e dublaj & altyaz\u0131l\u0131 film ar\u015fivi (lovefilmizle.net)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/LoveFilm.cs3",
         "name": "LoveFilm"
     },
@@ -818,7 +818,7 @@
         ],
         "version": 3,
         "internalName": "PuhuTV",
-        "description": "PuhuTV \u00e2\u20ac\u201d Yerli diziler, puhutv Orijinal yap\u00c4\u00b1mlar, filmler ve belgeseller",
+        "description": "PuhuTV \u2014 Yerli diziler, puhutv Orijinal yap\u0131mlar, filmler ve belgeseller",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/PuhuTV.cs3",
         "name": "PuhuTV"
     },
@@ -859,7 +859,7 @@
         ],
         "version": 9,
         "internalName": "SelcukFlix",
-        "description": "Selcukflix \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj & altyaz\u00c4\u00b1l\u00c4\u00b1 film ve dizi ar\u00c5\u0178ivi (selcukflix.app)",
+        "description": "Selcukflix \u2014 T\u00fcrk\u00e7e dublaj & altyaz\u0131l\u0131 film ve dizi ar\u015fivi (selcukflix.app)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/SelcukFlix.cs3",
         "name": "SelcukFlix"
     },
@@ -901,7 +901,7 @@
         ],
         "version": 3,
         "internalName": "ShowTV",
-        "description": "Show TV \u00e2\u20ac\u201d dizi ve program b\u00c3\u00b6l\u00c3\u00bcmleri",
+        "description": "Show TV \u2014 dizi ve program b\u00f6l\u00fcmleri",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/ShowTV.cs3",
         "name": "ShowTV"
     },
@@ -921,7 +921,7 @@
         ],
         "version": 4,
         "internalName": "SinemaCX",
-        "description": "SinemaCX \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj & altyaz\u00c4\u00b1l\u00c4\u00b1 film ar\u00c5\u0178ivi (sinemacc.com)",
+        "description": "SinemaCX \u2014 T\u00fcrk\u00e7e dublaj & altyaz\u0131l\u0131 film ar\u015fivi (sinemacc.com)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/SinemaCX.cs3",
         "name": "SinemaCX"
     },
@@ -941,7 +941,7 @@
         ],
         "version": 7,
         "internalName": "Sinezy",
-        "description": "Sinezy \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj/altyaz\u00c4\u00b1l\u00c4\u00b1 film ar\u00c5\u0178ivi",
+        "description": "Sinezy \u2014 T\u00fcrk\u00e7e dublaj/altyaz\u0131l\u0131 film ar\u015fivi",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Sinezy.cs3",
         "name": "Sinezy"
     },
@@ -961,7 +961,7 @@
         ],
         "version": 6,
         "internalName": "StarTV",
-        "description": "StarTV \u00e2\u20ac\u201d Yal\u00c4\u00b1 \u00c3\u2021apk\u00c4\u00b1n\u00c4\u00b1 ve di\u00c4\u0178er dizilerin b\u00c3\u00b6l\u00c3\u00bcmleri",
+        "description": "StarTV \u2014 Yal\u0131 \u00c7apk\u0131n\u0131 ve di\u011fer dizilerin b\u00f6l\u00fcmleri",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/StarTV.cs3",
         "name": "StarTV"
     },
@@ -1010,10 +1010,10 @@
     },
     {
         "iconUrl": "https://trakt.tv/apple-touch-icon.png",
-        "fileHash": "sha256-5a56377e2a6dd37f13f1208bb2fab123dccf27cbadae5f27e3ae2eaf870fe38d",
+        "fileHash": "sha256-24e11caa7e5b79651dd201228d8b9ba6bbf55e0651114b1f3d301af594ea66db",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/castiel430/vahsikelebek",
-        "fileSize": 59272,
+        "fileSize": 59269,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -1023,7 +1023,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "TraktSync",
         "description": "Trakt Senkron - CloudStream k\u00fct\u00fcphanenizi Trakt.tv ile \u00e7ift y\u00f6nl\u00fc e\u015fitler (izlenenler ve izleme listesi iki tarafta da g\u00f6r\u00fcn\u00fcr)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TraktSync.cs3",
@@ -1046,7 +1046,7 @@
         ],
         "version": 1,
         "internalName": "TurkAnimeTV",
-        "description": "T\u00c3\u00bcrk Anime TV \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e altyaz\u00c4\u00b1l\u00c4\u00b1 anime izle (turkanime.live)",
+        "description": "T\u00fcrk Anime TV \u2014 T\u00fcrk\u00e7e altyaz\u0131l\u0131 anime izle (turkanime.live)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TurkAnimeTV.cs3",
         "name": "TurkAnimeTV"
     },
@@ -1067,7 +1067,7 @@
         ],
         "version": 6,
         "internalName": "TV8",
-        "description": "TV8 \u00e2\u20ac\u201d program ve dizi b\u00c3\u00b6l\u00c3\u00bcmleri",
+        "description": "TV8 \u2014 program ve dizi b\u00f6l\u00fcmleri",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/TV8.cs3",
         "name": "TV8"
     },
@@ -1129,7 +1129,7 @@
         ],
         "version": 6,
         "internalName": "WebteIzle",
-        "description": "WebteIzle \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e dublaj/altyaz\u00c4\u00b1l\u00c4\u00b1 film izle (webteizle.info)",
+        "description": "WebteIzle \u2014 T\u00fcrk\u00e7e dublaj/altyaz\u0131l\u0131 film izle (webteizle.info)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/WebteIzle.cs3",
         "name": "WebteIzle"
     },
@@ -1150,7 +1150,7 @@
         ],
         "version": 13,
         "internalName": "Yabancidizi",
-        "description": "Yabanc\u00c4\u00b1dizi \u00e2\u20ac\u201d ybncidizi.com (dizi, film, anime)",
+        "description": "Yabanc\u0131dizi \u2014 ybncidizi.com (dizi, film, anime)",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/Yabancidizi.cs3",
         "name": "Yabancidizi"
     },
@@ -1171,7 +1171,7 @@
         ],
         "version": 7,
         "internalName": "YesilCamTv",
-        "description": "YesilCamTv \u00e2\u20ac\u201d T\u00c3\u00bcrk\u00c3\u00a7e i\u00c3\u00a7erik",
+        "description": "YesilCamTv \u2014 T\u00fcrk\u00e7e i\u00e7erik",
         "url": "https://raw.githubusercontent.com/castiel430/vahsikelebek-builds/main/YesilCamTv.cs3",
         "name": "YesilCamTv"
     },
